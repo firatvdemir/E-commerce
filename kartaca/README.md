@@ -4,7 +4,7 @@
 - *Mail :* `firatfiratdemir@gmail.com`
 - [*Live Demo!*](https://youtu.be/bL4_5UfSEhY)
 
-  E-Commerce Full Stack uygulaması Kartaca Bilişim A.Ş. staj programı için **sıfırdan** yapıldı. Back-end kısmında *Django*, Front-end kısmında ise *React* kullanıldı. Veri tabanı olarak ise Django'da standart olarak gelen *SQlite* kullanıldı. Kütüphane olarak Django'da çapraz istekleri yönetmek için `corsheaders` kütüphanesi kullanıldı. React'de ise end-point yönetimi için `react-router` ve UI(User Interface) olarak da `bootstrap` kütüphanesi kullanıldı. Önceliklikle uygulamayı Çalıştırmak için gerekli aşamalardan bahsedilip, ardından back-end ve front-end kısımlarındaki önemli yerlerin gerekli açıklamaları yapılacaktır.
+E-Commerce Full Stack uygulaması Kartaca Bilişim A.Ş. staj programı için **sıfırdan** yapıldı. Back-end kısmında *Django*, Front-end kısmında ise *React* kullanıldı. Veri tabanı olarak ise Django'da standart olarak gelen *SQlite* kullanıldı. Kütüphane olarak Django'da çapraz istekleri yönetmek için `corsheaders` kütüphanesi kullanıldı. React'de ise end-point yönetimi için `react-router` ve UI(User Interface) olarak da `bootstrap` kütüphanesi kullanıldı. Önceliklikle uygulamayı Çalıştırmak için gerekli aşamalardan bahsedilip, ardından back-end ve front-end kısımlarındaki önemli yerlerin gerekli açıklamaları yapılacaktır.
 
 ## Çalıştırma Aşamaları
 Uygulamadaki root dosya kartaca adındaki dosyadır. Bu dosyanın içinde 3 adet element bulunmaktadır. Bunlar;
