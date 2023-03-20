@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+  font-family: -apple-system-tall-body, BlinkMacSystemFont, sans-serif;
+  font-weight: 100;
+  background-color: rgb(255, 255, 255);
+  /* background-image: linear-gradient(to left bottom, #dfdfdf, #aeaeae, #808080, #545454, #2c2c2c); */
+  color: rgb(0, 0, 0);
+}
+.postCard {
+  width: 302px;
+  height: 600px;
+  margin: 4%;
+}
+.postCardImg {
+  width: 300px;
+  height: 300px;
+  border-radius: 15px;
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
+}
+.navButton {
+  font-family: -apple-system-tall-body, BlinkMacSystemFont, sans-serif;
+  font-weight: 100;
+  color: rgb(189, 189, 189);
+  border-radius: 10px;
+  padding: 6px;
+  margin-right: 8px;
+}
+.navBar {
+  margin-top: 2%;
+  border-radius: 10px;
+}
+.navBarMessage{
+  font-family: -apple-system-tall-body, BlinkMacSystemFont, sans-serif;
+  font-weight: 100;
+  font-size:xx-large;
+  float: inline-end;
+  color: rgb(255, 84, 11);
+}
+.addPostLabel {
+  float: left;
+  margin-bottom: 2px;
+  margin-top: 5px;
+  font-size: xx-large;
+}
